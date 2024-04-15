@@ -1,3 +1,7 @@
+// Sample code for PS4 problem 4
+// COS 445 SD4, Spring 2019
+// Created by Andrew Wonnacott
+
 import java.util.List;
 
 public class Bidder_mz5872 implements Bidder {
