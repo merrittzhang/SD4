@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Bidder_mz5872 implements Bidder {
   private double budget = Auctioneer.defaultConfig.getBudget();
-  private static final double factor = 0.6;
+  private static final double factor = 0.5;
 
   // given your value for the day, determine an action
   public double getBid(double v) {
